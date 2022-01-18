@@ -4,5 +4,5 @@ This is a future project that I will develop further when I have a better idea o
 
 ## To Run
 ```bash
-yarn next dev
+yarn dev
 ```
